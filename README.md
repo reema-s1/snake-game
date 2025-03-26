@@ -3,7 +3,7 @@
 A simple Snake game made with HTML, CSS, and JavaScript. 
 
 ##  Why ?
-To learn the basics of JavaScript.
+-  cute
 
 ## Added already - 
 - BOO flashes when you hit a wall - negative reinforcement
